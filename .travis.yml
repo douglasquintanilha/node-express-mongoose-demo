@@ -3,3 +3,8 @@ services:
 language: node_js
 node_js:
   - "8.11.1"
+deploy:
+  provider: heroku
+  api_key:
+    secure: $HEROKU_API_KEY
+  app: alura-open-blog
