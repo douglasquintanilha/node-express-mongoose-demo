@@ -38,7 +38,7 @@
     "dotenv": "~4.0.0",
     "express": "~5.0.0-alpha.6",
     "express-session": "~1.15.0",
-    "forever": "~0.15.1",
+    "forever": "~2.0.0",
     "jade": "~1.11.0",
     "method-override": "~2.3.5",
     "mongoose": "~4.13.0",
